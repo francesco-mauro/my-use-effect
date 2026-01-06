@@ -31,6 +31,7 @@ function App() {
     selectedPlace.current = id;
   }
 
+  
   function handleStopRemovePlace() {
     modal.current.close();
   }
