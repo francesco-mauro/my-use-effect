@@ -21,3 +21,4 @@ function Modal({ open, children, onClose }) {
 }
 
 export default Modal;
+  
